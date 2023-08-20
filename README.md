@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href=" https://render217.github.io/404/">
       Demo
     </a>
     <span> | </span>
@@ -28,7 +28,7 @@
 
 - [Overview](#overview)
   - [Built With](#built-with)
-- [Challanges](#challanges)
+- [Features](#features)
 
 
 
@@ -46,7 +46,7 @@
 - Css
 - Javascript
 
-## Challanges
+## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
