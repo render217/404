@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://render217.github.io/404/">
+    <a href="https://render217.github.io/404/" target="_blank">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{your-url-to-the-solution}" target="_blank">
       Solution
     </a>
     <span> | </span>
