@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href=" https://render217.github.io/404/">
+    <a href="https://render217.github.io/404/">
       Demo
     </a>
     <span> | </span>
